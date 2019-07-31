@@ -1,0 +1,27 @@
+div .w{
+
+	border:2px solid blue;
+	border-radius:15px;
+}
+li:hover{
+background-color:rgba(15,165,89,0.6)!important;
+color:red!important;
+border-radius:10px;
+
+}
+.bg-dark{
+
+	background-color:rgba(125,47,100,0.5);
+}
+ .i {
+border-radius:15px;
+
+}
+body {
+	background-color:rgb(115,176,129);
+
+}
+.bor{
+	text-align:center;
+	
+}
